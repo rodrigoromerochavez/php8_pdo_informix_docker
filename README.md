@@ -20,7 +20,7 @@ The configurations are intended for installing PDO_Informix with the IBM Informi
 1. Clone the project.  
 2. You need an "IBM ID" to download the SDK: `ibm.csdk.4.50.FC11.LNX.tar`  
    ([Download here](https://www.ibm.com/resources/mrs/assets/packageList?source=ifxdl&lang=en_US))  
-   and the PDO extension ([Download here](https://pecl.php.net/package/PDO_INFORMIX/1.3.6)).  
+   and the PDO extension ([Download here](https://pecl.php.net/get/PDO_INFORMIX-1.3.6.tgz)).  
 3. In the `informix/sqlhosts` file, update the `your_server` string to match your Informix server name.  
    You can edit the configuration files in the `apache_conf` folder.  
 
